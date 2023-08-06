@@ -27,5 +27,5 @@ Web Development | Desktop Development
 
 
 
-- 🌱 I’m currently learning studying tasks on Leetcode
+- 🌱 I’m currently studying tasks on Leetcode
 - 📫 How to reach me: sdWbs (Telegram)
