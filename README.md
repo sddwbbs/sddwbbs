@@ -28,4 +28,4 @@ Desktop Development
 
 
 - 🌱 I’m currently studying tasks on Leetcode
-- 📫 How to reach me: sdWbs (Telegram)
+- 📫 How to reach me: @sdWbs (Telegram)
